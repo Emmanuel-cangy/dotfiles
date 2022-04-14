@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ecangy0102@gmail.com
+	name = Emmanuel Cangy
